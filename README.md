@@ -5,7 +5,7 @@ Software Engineer @ Cognizant Technology Solutions
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA and Generative AI to my workflow
 - Engineeing at [<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-computer-science-computer-science-flaticons-lineal-color-flat-icons-4.png" alt="external-computer-science-computer-science-flaticons-lineal-color-flat-icons-4"/>](https://www.highbrowtechnology.com/),
- - Currently working with [![Cognizant](https://img.shields.io/badge/Cognizant-0033A1?style=for-the-badge&logo=cognizant&logoColor=white)](https://www.cognizant.com/) **Cognizant**
+ - Currently working with [![Cognizant](https://img.shields.io/badge/Cognizant-0033A1?style=for-the-badge&logo=cognizant&logoColor=white)](https://www.cognizant.com/)
  - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudharshini-kumaresan-68776923b/)
 
