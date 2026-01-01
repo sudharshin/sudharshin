@@ -17,6 +17,13 @@ Software Engineer @ Cognizant Technology Solutions
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/java-eclipse.png" alt="java-eclipse"/><img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="50" height="50" src="https://img.icons8.com/wired/64/postman-api.png" alt="postman-api"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
 
 ### Geeks for Geeks Profile
-<img align="right" src="image.png" width="400" />
+<img align="left" src="image.png" width="500" />
+<br clear="left" />
+<br />
+<br />
+
+### GitHub Activity Profile
 ![Sudharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshin&bg_color=0d1117&color=ffffff&line=2ced2f&point=f9fafa&area=true&hide_border=true)
+
+### Leetcode Profile
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudharshini_kumaresan30?theme=dark&font=Sriracha)
