@@ -16,9 +16,7 @@ Software Engineer @ Cognizant Technology Solutions
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/java-eclipse.png" alt="java-eclipse"/><img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="50" height="50" src="https://img.icons8.com/wired/64/postman-api.png" alt="postman-api"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"/>
 
-
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-
+### Geeks for Geeks Profile
+<img align="right" src="image.png" width="400" />
 ![Sudharshini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharshin&bg_color=0d1117&color=ffffff&line=2ced2f&point=f9fafa&area=true&hide_border=true)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sudharshini_kumaresan30?theme=dark&font=Sriracha)
