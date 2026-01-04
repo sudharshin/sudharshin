@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Sudharshini
 
 Software Engineer @ Cognizant Technology Solutions
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
 - 🌱 I’m currently learning DSA and Generative AI to my workflow
 - Engineeing at [<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-computer-science-computer-science-flaticons-lineal-color-flat-icons-4.png" alt="external-computer-science-computer-science-flaticons-lineal-color-flat-icons-4"/>](https://www.highbrowtechnology.com/),
  - Currently working with [![Cognizant](https://img.shields.io/badge/Cognizant-0033A1?style=for-the-badge&logo=cognizant&logoColor=white)](https://www.cognizant.com/)
